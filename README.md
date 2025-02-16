@@ -26,3 +26,10 @@ https://docs.astral.sh/uv/getting-started/installation/
 
 4. アプリケーションの実行
 `uv run streamlit run agent_app.py`
+
+## マネーフォワードクラウド経費API
+### APIドキュメント
+https://expense.moneyforward.com/api/index.html
+
+### アクセストークンの取得
+https://github.com/moneyforward/expense-api-doc?tab=readme-ov-file#%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%81%AE%E7%99%BA%E8%A1%8C%E3%81%AE%E6%B5%81%E3%82%8C
