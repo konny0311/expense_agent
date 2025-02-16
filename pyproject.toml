@@ -1,0 +1,13 @@
+[project]
+name = "expense-agent"
+version = "0.1.0"
+description = "経費精算エージェント"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-core>=0.3.34",
+    "langchain-openai>=0.3.4",
+    "langgraph>=0.2.70",
+    "openai>=1.61.1",
+    "streamlit>=1.42.0",
+]
