@@ -13,9 +13,9 @@
 
 1. 環境変数の設定
 ```
-OPENAI_API_KEY=your-api-key
-MONEYFORWARD_API_KEY=your-api-key
-OFFICE_ID=your-office-id
+export MFW_EXPENSE_OFFICE_ID="your_office_id"
+export MFW_EXPENSE_KEY="your_key"
+export OPENAI_API_KEY="your_key"
 ```
 
 2. パッケージ管理ツールuvのインストール
